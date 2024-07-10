@@ -1,1 +1,3 @@
-<p>created a new file</p>
+const main=()=>{
+    console.log("main function");
+}
